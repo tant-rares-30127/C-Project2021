@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605179927 source:c:\users\rares\desktop\c\tema_lab6\main.c
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

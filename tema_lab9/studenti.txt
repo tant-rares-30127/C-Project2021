@@ -1,0 +1,7 @@
+Tant,Rares,8.78
+Buliga,Loredana,9.46
+Creion,Ionut,7.22
+Pop,Marcel,5.98
+Mentor,Rodica,7.78
+John,Smith,8.24
+John,Smith,8.55

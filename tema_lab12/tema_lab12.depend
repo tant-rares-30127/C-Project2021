@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609780433 source:d:\c\tema_lab12\main.c
+	<stdio.h>
+	<stdlib.h>
+

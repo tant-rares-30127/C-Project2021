@@ -1,0 +1,12 @@
+5
+4
+1 vaca
+4 caine
+5 pisica
+8 gaina
+12 crocodil
+2 girafa
+5 oaie
+6 maimuta
+9 lup
+

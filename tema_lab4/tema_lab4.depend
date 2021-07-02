@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603647511 source:c:\users\rares\desktop\c\tema_lab4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1603647511 source:d:\c\tema_lab4\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
